@@ -12,6 +12,7 @@ body {
     max-width: 100%;
     overflow-x: hidden;
     font-family: Lust;
+
 }
 
 
@@ -111,7 +112,6 @@ body {
 }
 /*------------------------------------*/
 
-
 /*-------------------------Hovers-------------------------*/
 
 .hor{
@@ -138,9 +138,6 @@ body {
 
 }
 
-a:-webkit-any-link {
-    text-decoration: none;
-}
 
 .text span {
     position: absolute;
@@ -691,7 +688,7 @@ a:-webkit-any-link {
     transition: 0.5s;
 }
 
-/* .team {
+.team {
     width: 85%;
     margin: 25px;
     padding: 0px 50px;
@@ -733,20 +730,14 @@ a:-webkit-any-link {
     border-right: 1px solid white;
     padding-left: 50px;
     padding-right: 50px;
-} */
+}
 
 .copy{
     color: #fff;
     position: absolute;
     left: 660px;
     top: 312rem;
-    bottom: 5rem;
-    padding-bottom: 10rem;
 } 
-
-footer{
-    margin-bottom: 5rem;
-}
 
 /*----------------------Responsiveness----------------------------------*/
 * {

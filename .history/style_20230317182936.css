@@ -138,9 +138,10 @@ body {
 
 }
 
-a:-webkit-any-link {
+.text>a{
     text-decoration: none;
 }
+
 
 .text span {
     position: absolute;

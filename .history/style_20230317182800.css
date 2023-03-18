@@ -12,6 +12,7 @@ body {
     max-width: 100%;
     overflow-x: hidden;
     font-family: Lust;
+
 }
 
 
@@ -111,6 +112,9 @@ body {
 }
 /*------------------------------------*/
 
+.links-container>ul>li{
+    text-decoration: none;
+}
 
 /*-------------------------Hovers-------------------------*/
 
@@ -138,9 +142,10 @@ body {
 
 }
 
-a:-webkit-any-link {
+.text>a{
     text-decoration: none;
 }
+
 
 .text span {
     position: absolute;

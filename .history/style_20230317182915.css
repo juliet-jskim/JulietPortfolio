@@ -12,6 +12,8 @@ body {
     max-width: 100%;
     overflow-x: hidden;
     font-family: Lust;
+    text-decoration: none;
+
 }
 
 
@@ -138,9 +140,10 @@ body {
 
 }
 
-a:-webkit-any-link {
+.text>a{
     text-decoration: none;
 }
+
 
 .text span {
     position: absolute;

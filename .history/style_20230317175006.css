@@ -12,6 +12,7 @@ body {
     max-width: 100%;
     overflow-x: hidden;
     font-family: Lust;
+
 }
 
 
@@ -85,8 +86,8 @@ body {
 .bannerText {
     color: #fff;
     position: absolute;
-    right: 25rem;
-    top: 29rem;
+    right: 26%;
+    top: 54%;
     text-align: right;
     font-family: Montserrat;
     font-size: 15px;
@@ -104,13 +105,12 @@ body {
 .bannerName {
     color: #fff;
     position: absolute;
-    left: 11rem;
-    top: 27rem;
+    left: 10%;
+    top: 51.8%;
     font-weight: 100;
     font-size: 50px;
 }
 /*------------------------------------*/
-
 
 /*-------------------------Hovers-------------------------*/
 
@@ -138,9 +138,6 @@ body {
 
 }
 
-a:-webkit-any-link {
-    text-decoration: none;
-}
 
 .text span {
     position: absolute;
@@ -548,8 +545,7 @@ a:-webkit-any-link {
 }
 
 .bannerp{
-    position: absolute;
-    top: 6rem;
+    position:absolute;
 }
 
 .bannerp .bannerpo {
@@ -691,7 +687,7 @@ a:-webkit-any-link {
     transition: 0.5s;
 }
 
-/* .team {
+.team {
     width: 85%;
     margin: 25px;
     padding: 0px 50px;
@@ -733,20 +729,13 @@ a:-webkit-any-link {
     border-right: 1px solid white;
     padding-left: 50px;
     padding-right: 50px;
-} */
+}
 
 .copy{
     color: #fff;
     position: absolute;
     left: 660px;
-    top: 312rem;
-    bottom: 5rem;
-    padding-bottom: 10rem;
 } 
-
-footer{
-    margin-bottom: 5rem;
-}
 
 /*----------------------Responsiveness----------------------------------*/
 * {

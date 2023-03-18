@@ -12,6 +12,7 @@ body {
     max-width: 100%;
     overflow-x: hidden;
     font-family: Lust;
+
 }
 
 
@@ -111,7 +112,6 @@ body {
 }
 /*------------------------------------*/
 
-
 /*-------------------------Hovers-------------------------*/
 
 .hor{
@@ -138,9 +138,6 @@ body {
 
 }
 
-a:-webkit-any-link {
-    text-decoration: none;
-}
 
 .text span {
     position: absolute;
@@ -741,7 +738,7 @@ a:-webkit-any-link {
     left: 660px;
     top: 312rem;
     bottom: 5rem;
-    padding-bottom: 10rem;
+    padding-bottom: 15rem;
 } 
 
 footer{
